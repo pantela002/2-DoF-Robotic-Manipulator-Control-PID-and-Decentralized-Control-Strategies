@@ -39,7 +39,7 @@ The main simulation loop involves:
 - Stores simulation results including joint positions, velocities, and torques for later analysis.
 
 ## Results
-![Joint Torques](output.gif)  
+![Joint Torques](video_and_project_paper/output.gif)  
 
 ## Conclusion
 
