@@ -39,26 +39,7 @@ The main simulation loop involves:
 - Stores simulation results including joint positions, velocities, and torques for later analysis.
 
 ## Results
-
-### Joint Positions
-
-![Joint Positions](path/to/your/joint_positions.gif)  
-*Figure 1: Joint positions over time.*
-
-### Joint Velocities
-
-![Joint Velocities](path/to/your/joint_velocities.gif)  
-*Figure 2: Joint velocities over time.*
-
-### Cartesian Coordinates
-
-![Cartesian Coordinates](path/to/your/cartesian_coordinates.gif)  
-*Figure 3: Cartesian coordinates of the end-effector over time.*
-
-### Joint Torques
-
-![Joint Torques](path/to/your/joint_torques.gif)  
-*Figure 4: Torques applied to each joint over time.*
+![Joint Torques](output.gif)  
 
 ## Conclusion
 
